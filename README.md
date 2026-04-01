@@ -69,3 +69,5 @@ printf("Hello, World")
 
 testtest
 diff배우기
+
+main기능수정
